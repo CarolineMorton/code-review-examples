@@ -1,0 +1,12 @@
+id,snomed_code,snomed_term
+1,195967001,Chronic obstructive pulmonary disease (COPD)
+1,195662009,Acute exacerbation of chronic obstructive airways disease
+1,410429000,STEMI (ST-elevation myocardial infarction)
+2,410429000,STEMI (ST-elevation myocardial infarction)
+2,166603001,Hypertension
+3,195967001,Chronic obstructive pulmonary disease (COPD)
+3,195662009,Acute exacerbation of chronic obstructive airways disease
+4,195967001,Chronic obstructive pulmonary disease (COPD)
+4,428041000124101,Diabetes mellitus
+4,410429000,STEMI (ST-elevation myocardial infarction)
+5,166603001,Hypertension
