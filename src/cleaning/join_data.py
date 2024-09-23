@@ -4,9 +4,6 @@ from cleaning.continious_variables import clean_bmi
 from cleaning.binary_events import category_event_to_bool
 
 
-# events = load_data("data/events.csv")
-# demographics = load_data("data/demographics.csv")
-
 def merge_events_with_demographics(event_path: str, demo_path: str) -> pd.DataFrame:
     """
     Merge the events and demographics dataframes.
